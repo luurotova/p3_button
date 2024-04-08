@@ -1,0 +1,29 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    background-color: whitesmoke;
+    border: 5px solid greenyellow;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#btn2{
+    background-color: whitesmoke;
+    border: 5px solid rgb(47, 231, 255);
+    padding: 10px 30px;
+    margin-top: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
